@@ -12,7 +12,8 @@
                 "oouo-diogo-perdigao.docthis",
                 "ms-playwright.playwright",
                 "esbenp.prettier-vscode",
-                "standard.vscode-standard"
+                "standard.vscode-standard",
+                "mongodb.mongodb-vscode"
             ]
 		}
 	},
