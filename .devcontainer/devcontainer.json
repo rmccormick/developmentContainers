@@ -1,0 +1,19 @@
+{
+    "build": { "dockerfile": "Dockerfile" },
+    
+    // Configure tool-specific properties.
+	"customizations": {
+		// Configure properties specific to VS Code.
+		"vscode": {
+			// Add the IDs of extensions you want installed when the container is created.
+			"extensions": [
+                "Angular.ng-template",
+                "ms-azuretools.vscode-docker",
+                "oouo-diogo-perdigao.docthis",
+                "ms-playwright.playwright",
+                "esbenp.prettier-vscode",
+                "standard.vscode-standard"
+            ]
+		}
+	},
+}
